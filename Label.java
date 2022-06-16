@@ -51,14 +51,6 @@ public class Label extends Actor
     }
     
     /**
-     * Return the current value of the label
-     */
-    public String getValue()
-    {
-        return value;
-    }
-    
-    /**
      * Sets the value as integer
      * 
      * @param value the value to be show

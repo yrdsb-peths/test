@@ -1,4 +1,5 @@
-*.class
-*.ctxt
+**.ctxt
+**.class
+Map.java
 project.greenfoot
-*.html
+project.greenfoot
